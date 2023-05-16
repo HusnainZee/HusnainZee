@@ -10,7 +10,8 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m a Unity Game Developer. I'm all about creating experiences that make players go, "Whoa, that was amazing!" So, buckle up and get ready for some seriously fun gaming adventures coming your way!
+- 🔭 I'm all about creating game experiences that make players go, "Whoa, that was amazing!" 
+So, buckle up and get ready for some seriously fun gaming adventures coming your way!
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: **husnainzulfiqarr@gmail.com**
