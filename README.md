@@ -12,8 +12,8 @@
 
 - 🔭 I'm all about creating game experiences that make players go, "Whoa, that was amazing!" 
 So, buckle up and get ready for some seriously fun gaming adventures coming your way!
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
+- 🌱 I'm immersing myself in game design, coding, and everything else it takes to bring games to life.
+- ⚡ Fun fact: I have nerd friends. 
 - 📫 How to reach me: **husnainzulfiqarr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
