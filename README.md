@@ -4,7 +4,7 @@
   <img src="https://github.com/HusnainZee/HusnainZee/blob/main/hello.gif" alt="Your GIF" />
 </p>
 
-<p align="center"><b style="font-size:20px">HUSNAIN ALI</b></p>
+<p align="center"><b style="font-size:40px">HUSNAIN ALI</b></p>
 
 
 <!--
