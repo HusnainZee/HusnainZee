@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](https://github.com/HusnainZee/HusnainZee/blob/main/B9At.gif)
+###
 
 <p align="center">
   <img src="https://github.com/HusnainZee/HusnainZee/blob/main/B9At.gif" alt="Your GIF" />
