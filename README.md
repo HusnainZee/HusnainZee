@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b style="font-size:300px">HUSNAIN ALI</b>
+  <b style="font-size:1000px">HUSNAIN ALI</b>
 </p>
 <!--
 **HusnainZee/HusnainZee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
