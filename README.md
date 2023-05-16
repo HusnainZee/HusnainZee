@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Husnain Ali</h1>
-<h3 align="center">Game Developer Building Digital Playgrounds!</h3>
+<h3 align="center">A Game Developer Building Digital Playgrounds!</h3>
 <h4 align="center">When I'm not building games, you can find me playing games (I mean, come on, it's research, right?) </h4>
 
 <h3 align="left">About me:</h3>
