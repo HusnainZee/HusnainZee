@@ -3,7 +3,7 @@
 ![](https://github.com/HusnainZee/HusnainZee/blob/main/B9At.gif)
 
 <p align="center">
-  <img src="https://github.com/Your_Repository_Name/Your_GIF_Name.gif" alt="Your GIF" />
+  <img src="https://github.com/HusnainZee/HusnainZee/blob/main/B9At.gif" alt="Your GIF" />
 </p>
 
 <!--
