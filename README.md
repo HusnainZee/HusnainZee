@@ -9,10 +9,11 @@
 <h4 align="center">When I'm not building games, you can find me playing games (I mean, come on, it's research, right?) </h4>
 
 <h3 align="left">About me:</h3>
-<h1 align="left">About me:</h1>
 
-- 📫 Reach me: **husnainzulfiqarr@gmail.com**
-- 📫 Reach me at **husnainzulfiqarr@gmail.com**
+- 🔭 I’m a Unity Game Developer. I'm all about creating experiences that make players go, "Whoa, that was amazing!" So, buckle up and get ready for some seriously fun gaming adventures coming your way!
+- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ...
+- 📫 How to reach me: **husnainzulfiqarr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
