@@ -6,11 +6,14 @@
 
 <h1 align="center">Hi 👋, I'm HUSNAIN ALI</h1>
 <h3 align="center">Game Developer Building Digital Playgrounds!</h3>
-<h5 align="center">When I'm not building games, you can find me playing games (I mean, come on, it's research, right?) </h5>
+<h4 align="center">When I'm not building games, you can find me playing games (I mean, come on, it's research, right?) </h4>
 
+<h3 align="left">About me:</h3>
 - 📫 Reach me: **husnainzulfiqarr@gmail.com**
+- 📫 Reach me at **husnainzulfiqarr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/husnainhanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/husnainhanii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/husnain-ali-gamedev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/husnain-ali-gamedev/" height="30" width="40" /></a>
