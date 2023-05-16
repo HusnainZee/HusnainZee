@@ -8,7 +8,7 @@
 <h3 align="center">A Game Developer Building Digital Playgrounds!</h3>
 <h4 align="center">When I'm not building games, you can find me playing games (I mean, come on, it's research, right?) </h4>
 
-<h3 align="left">About me:</h3>
+## About Me  
 
 - 🔭 I'm all about creating game experiences that make players go, "Whoa, that was amazing!" 
 So, buckle up and get ready for some seriously fun gaming adventures coming your way!
@@ -16,7 +16,7 @@ So, buckle up and get ready for some seriously fun gaming adventures coming your
 - ⚡ Fun fact: I have nerd friends. 
 - 📫 How to reach me: **husnainzulfiqarr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/husnainhanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/husnainhanii" height="30" width="40" /></a>
@@ -30,8 +30,6 @@ So, buckle up and get ready for some seriously fun gaming adventures coming your
 
 ## My Skill Set  
 
-
-### Skillset  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
