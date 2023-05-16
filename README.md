@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="https://github.com/HusnainZee/HusnainZee/blob/main/hello.gif" alt="Your GIF" />
-  <b style="font-size:300px">HUSNAIN ALI</b>
+  
 </p>
 
-
-
-
+<p align="center">
+  <b style="font-size:300px">HUSNAIN ALI</b>
+</p>
 <!--
 **HusnainZee/HusnainZee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
