@@ -9,6 +9,8 @@
 <h4 align="center">When I'm not building games, you can find me playing games (I mean, come on, it's research, right?) </h4>
 
 <h3 align="left">About me:</h3>
+<h1 align="center"></h1>
+
 - 📫 Reach me: **husnainzulfiqarr@gmail.com**
 - 📫 Reach me at **husnainzulfiqarr@gmail.com**
 
