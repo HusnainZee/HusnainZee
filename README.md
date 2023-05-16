@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm HUSNAIN ALI</h1>
 <h3 align="center">Game Developer Building Digital Playgrounds!</h3>
+<h3 When I'm not building games, you can find me playing games (I mean, come on, it's research, right?) </h3>
 
 - 📫 How to reach me **husnainzulfiqarr@gmail.com**
 
