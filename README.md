@@ -2,6 +2,9 @@
 
 ![](https://github.com/HusnainZee/HusnainZee/blob/main/B9At.gif)
 
+<p align="center">
+  <img src="https://github.com/Your_Repository_Name/Your_GIF_Name.gif" alt="Your GIF" />
+</p>
 
 <!--
 **HusnainZee/HusnainZee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
